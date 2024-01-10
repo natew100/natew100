@@ -11,3 +11,4 @@ I'm Nathan Wolf, a Computer Science major at the University of Delaware, passion
 
 #### 📩 My Social Profiles
 https://www.linkedin.com/in/nathanwolf1/
+nathanwolf100@gmail.com
