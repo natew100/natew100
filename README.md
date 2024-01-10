@@ -1,4 +1,4 @@
-### Hi There! 👋
+### 👋 Hi There, Welcome to my Github!
 ---
 
 I'm Nathan Wolf, a Computer Science major at the University of Delaware, passionate about software development.
